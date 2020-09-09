@@ -1,0 +1,22 @@
+#root, html, body
+{
+height: 100vh;
+}
+
+body
+{
+    margin: 0;
+    background-color: whitesmoke;
+
+}
+
+*
+{
+   box-lines: border-box; 
+   /*Takes into consideration the bording and padding when wanting width and heigh info*/
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
